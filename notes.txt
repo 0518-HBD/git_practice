@@ -1,0 +1,3 @@
+I am learning Git.
+The working directory can change after git add.
+I am learning git status.
