@@ -3,3 +3,4 @@ The working directory can change after git add.
 I am learning git status.
 Practice unstaging changes.
 I can inspect change with git diff.
+Unfinished work for stash practice.
