@@ -1,6 +1,6 @@
 {
   "app_name": "SupportBot",
-  "welcome_message": "Hello",
+  "welcome_message": "Welcome to SupportBot",
   "history_enabled": false,
-  "history_limit": 10
+  "history_limit": 20
 }
